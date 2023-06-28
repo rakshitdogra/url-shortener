@@ -1,2 +1,2 @@
-# url-shortener
-URL Shortener (using python, flask and html5)
+# URL-Shortener
+URL Shortener (using python, flask, Sql and html5)
